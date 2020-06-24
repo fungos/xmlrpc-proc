@@ -1,5 +1,3 @@
-extern crate xmlrpc_proc;
-
 use xmlrpc::{Request, Value, Error};
 use xmlrpc_proc::xmlrpc;
 
